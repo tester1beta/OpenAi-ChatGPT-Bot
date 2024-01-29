@@ -7,8 +7,8 @@ const chalk = require('chalk')
 */
 global.OFFLINE = false // if you want put bot offline put true
 global.BOT_PRIVATE = true // if you want use bot privet 
-global.AUTO_CHATGPT = false // if you want auto ai bot mod
-global.READ_MESSAGE = false // if you want read message from bot
+global.AUTO_CHATGPT = true // if you want auto ai bot mod
+global.READ_MESSAGE = true // if you want read message from bot
 global.ONLY_INBOX = false // Only inbox mod ( only pm ) use
 global.ONLY_GROUPS = false // Only Groups Use
 
@@ -16,8 +16,8 @@ global.ONLY_GROUPS = false // Only Groups Use
 /*
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
-global.OWNER_NAME = 'Dark Maker Ofc' // Owner Name
-global.OWNER_NUMBER = ['94715166712'] //Owner Number
+global.OWNER_NAME = 'SAVIYA-MD' // Owner Name
+global.OWNER_NUMBER = ['94768268328'] //Owner Number
 global.BOT_ADMINS = ['94715166712','94715166712'] //Bot admins numbers Like a Sudo Numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
 global.IMAGE_QUALITY = 'low' // Available Quality Are => low | mediam | high
