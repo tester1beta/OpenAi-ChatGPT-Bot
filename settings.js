@@ -35,7 +35,7 @@ global.SESSION_ID = process.env.SESSION_ID || SESSION_ID
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
 */
 global.CMD1 = '' // .ai Command
-global.CMD2 = 'node' // .ai2 Command
+global.CMD2 = 'saviya' // .ai2 Command
 global.IMAGE_CMD = 'aiimg' // .aiimg Command 
 global.PORT = process.env.PORT || '5000' // Port No need Change.
 
